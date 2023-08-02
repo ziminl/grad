@@ -1,6 +1,6 @@
 # grad
 
-instagram trend channel automation bot with py
+instagram issue and trend channel automation bot with py
 
 
 1. download by input link.
